@@ -6,13 +6,21 @@
 3. npm install
 4. npm run start
 
+### Features:
+1. Fetches data from SpaceX API
+2. Filter capability
+3. Responsive Designs
+4. Built using React + Vanilla CSS
+
 ### Screenshots:
 
+DESKTOP Design:
 ![alt text](https://github.com/aadeshkulkarni/spaceX/blob/main/ss/Screenshot%202021-06-14%20at%201.19.22%20AM.png?raw=true)
 
 
-![alt text](https://github.com/aadeshkulkarni/spaceX/blob/main/ss/Screenshot%202021-06-14%20at%201.19.22%20AM.png?raw=true)
+Tablet Design:
+![alt text](https://github.com/aadeshkulkarni/spaceX/blob/main/ss/Screenshot%202021-06-14%20at%201.20.22%20AM.png)
 
-
-![alt text](https://github.com/aadeshkulkarni/spaceX/blob/main/ss/Screenshot%202021-06-14%20at%201.19.22%20AM.png?raw=true)
+Mobile Design:
+![alt text](https://github.com/aadeshkulkarni/spaceX/blob/main/ss/Screenshot%202021-06-14%20at%201.20.55%20AM.png)
 
